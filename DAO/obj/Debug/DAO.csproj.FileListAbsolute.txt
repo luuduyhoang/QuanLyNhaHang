@@ -1,0 +1,9 @@
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\DAO\bin\Debug\DAO.dll
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\DAO\bin\Debug\DAO.pdb
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\DAO\bin\Debug\DTO.dll
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\DAO\bin\Debug\DTO.pdb
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\DAO\obj\Debug\DAO.dll
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\DAO\obj\Debug\DAO.pdb

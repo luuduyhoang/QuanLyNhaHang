@@ -1,0 +1,17 @@
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\BUS.dll
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DTO.dll
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\BUS.pdb
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DTO.pdb
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Login.resources
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DAO.dll
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\DAO.pdb

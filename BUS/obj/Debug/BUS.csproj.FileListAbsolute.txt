@@ -1,0 +1,11 @@
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\BUS\bin\Debug\BUS.dll
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\BUS\bin\Debug\BUS.pdb
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\BUS\bin\Debug\DAO.dll
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\BUS\bin\Debug\DTO.dll
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\BUS\bin\Debug\DAO.pdb
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\BUS\bin\Debug\DTO.pdb
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\BUS\obj\Debug\BUS.dll
+D:\Tai lieu hoc dai hoc\Tai lieu nam thu 4 2021 - 2022 hoc ky 1\Cong nghe phan mem\Project Restaurant\QuanLyNhaHang\BUS\obj\Debug\BUS.pdb
